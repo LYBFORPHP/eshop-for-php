@@ -1,0 +1,1 @@
+a:9:{i:0;s:3:"lid";i:1;s:3:"uid";i:2;s:6:"l_name";i:3;s:5:"l_tel";i:4;s:9:"l_address";i:5;s:8:"l_status";i:6;s:9:"l_addtime";s:3:"_pk";s:3:"lid";s:5:"_type";a:7:{s:3:"lid";s:16:"int(10) unsigned";s:3:"uid";s:7:"int(11)";s:6:"l_name";s:11:"varchar(10)";s:5:"l_tel";s:11:"varchar(11)";s:9:"l_address";s:4:"text";s:8:"l_status";s:10:"tinyint(3)";s:9:"l_addtime";s:11:"varchar(64)";}}

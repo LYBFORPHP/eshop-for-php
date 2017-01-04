@@ -1,0 +1,1 @@
+a:5:{i:0;s:7:"info_id";i:1;s:12:"info_content";i:2;s:7:"addtime";s:3:"_pk";s:7:"info_id";s:5:"_type";a:3:{s:7:"info_id";s:16:"int(10) unsigned";s:12:"info_content";s:12:"varchar(255)";s:7:"addtime";s:11:"varchar(64)";}}

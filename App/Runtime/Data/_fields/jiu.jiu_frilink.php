@@ -1,0 +1,1 @@
+a:7:{i:0;s:6:"Fri_id";i:1;s:8:"Fri_name";i:2;s:7:"Fri_url";i:3;s:12:"Fri_linktime";i:4;s:12:"Fri_describe";s:3:"_pk";s:6:"Fri_id";s:5:"_type";a:5:{s:6:"Fri_id";s:16:"int(10) unsigned";s:8:"Fri_name";s:12:"varchar(255)";s:7:"Fri_url";s:12:"varchar(255)";s:12:"Fri_linktime";s:11:"varchar(64)";s:12:"Fri_describe";s:4:"text";}}
